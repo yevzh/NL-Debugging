@@ -6,3 +6,6 @@ This repository contains the  implementation of the paper NL-Debugging: Exploiti
 
 ## Requirements
 
+- numpy
+- openai
+- vllm
